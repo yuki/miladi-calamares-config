@@ -1,5 +1,5 @@
 pkgname=miladi-calamares-config
-pkgver=20240706
+pkgver=20240710
 pkgrel=1
 pkgdesc="Calamares config for Miladi"
 arch=('any')
